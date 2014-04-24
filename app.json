@@ -1,1 +1,1 @@
-{"id":"a1e4846c-fb38-47a7-9332-9368abfdbe15","js":[{"path":"phonegap.js","remote":true},{"path":"app.js","update":"delta"}],"css":[{"path":"resources/css/app.css","update":"delta"}]}
+{"id":"a1e4846c-fb38-47a7-9332-9368abfdbe15","js":[{"path":"phonegap.js","remote":true},{"path":"app.js","update":"delta"},{"path":"http://maps.google.com/maps/api/js?sensor\u003dtrue","remote":true}],"css":[{"path":"resources/css/app.css","update":"delta"}]}
